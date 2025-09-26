@@ -22,7 +22,7 @@ The primary objective of this project is to develop a robust system that can ide
 | Evaluation | Accuracy, Loss, Confusion Matrix |
 | Exporting | CSV, Annotated Image, PDF (opt.) |
 
-# Getting Started
+## Getting Started
 ### Prerequisites
 To run this project, you need to have the following installed on your machine:
 
@@ -51,7 +51,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 
-# Project Milestones & Status
+## Project Milestones & Status
 |Milestone | Focus Area | Status | Deliverables Completed |
 | :--- | :--- | :--- | :--- |
 | 1 | Data Preparation & Preprocessing | **Complete** | Cleaned and labeled dataset, Class Distribution Plot. |
