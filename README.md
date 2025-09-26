@@ -1,10 +1,7 @@
-# AI-DermalScan
-A deep learning-based system for detecting and classifying facial aging signs such as wrinkles, dark spots, and puffy eyes
+## AI DermalScan: Facial Skin Aging Detection App
+This repository contains the source code and documentation for the AI DermalScan project, a deep learning-based system for detecting and classifying facial aging signs such as wrinkles, dark spots, and puffy eyes.
 
-# AI DermalScan: Facial Skin Aging Detection App
-This repository contains the source code and documentation for the AI DermalScan project, a deep learning-based system for detecting and classifying facial aging signs.
-
-# Project Overview
+### Project Overview
 The primary objective of this project is to develop a robust system that can identify and localize common facial aging signs, such as wrinkles, dark spots, puffy eyes, and clear skin. The system utilizes a pretrained deep learning model, EfficientNetB0, and a web-based frontend to provide a user-friendly experience.
 
 ### Key Features
@@ -21,7 +18,9 @@ The primary objective of this project is to develop a robust system that can ide
 | Model | TensorFlow/Keras, EfficientNetB0 |
 | Dataset | Labeled facial images dataset |
 | Frontend | Streamlit or HTML, CSS |
-| Backend | Python |
+| Backend | Python, , Modularized Inference |
+| Evaluation | Accuracy, Loss, Confusion Matrix |
+| Exporting | CSV, Annotated Image, PDF (opt.) |
 
 # Getting Started
 ### Prerequisites
@@ -35,7 +34,6 @@ To run this project, you need to have the following installed on your machine:
 
 git clone [https://github.com/your-username/AI-DermalScan.git](https://github.com/your-username/AI-DermalScan.git)
 cd AI-DermalScan
-
 
 2. Create and activate a virtual environment:
 
