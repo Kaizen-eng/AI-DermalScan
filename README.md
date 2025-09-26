@@ -32,7 +32,7 @@ To run this project, you need to have the following installed on your machine:
 ### Installation
 1. Clone this repository:
 
-git clone [https://github.com/your-username/AI-DermalScan.git](https://github.com/your-username/AI-DermalScan.git)
+git clone [https://github.com/your-username/AI-DermalScan.git](https://github.com/Kaizen-eng/AI-DermalScan.git)
 cd AI-DermalScan
 
 2. Create and activate a virtual environment:
