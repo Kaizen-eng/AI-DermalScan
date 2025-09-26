@@ -37,11 +37,11 @@ cd AI-DermalScan
 
 2. Create and activate a virtual environment:
 
-# On Windows
+### On Windows
 python -m venv venv
 .\venv\Scripts\activate
 
-# On macOS/Linux
+### On macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
 
